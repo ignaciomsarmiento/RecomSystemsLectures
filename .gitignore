@@ -13,7 +13,7 @@ L08_Datos_Geograficos/*
 L09_OSM/*
 L10_Recomendac_Mixtos/*
 README.md
-
+ 
 
 
 
@@ -290,3 +290,16 @@ rsconnect/
 /*_files/
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,python,jupyternotebooks,r
+L01_Intro_Sistemas_Recomendac/Parte1/L01_Intro_Sistemas_Recomendac_slides.ipynb
+L01_Intro_Sistemas_Recomendac/Parte1/L01_Intro_Sistemas_Recomendac_slides.slides.html
+L01_Intro_Sistemas_Recomendac/Parte1/tex/L01_Intro_Sistemas_Recomendac.tex
+L01_Intro_Sistemas_Recomendac/Parte1/tex/L01_Intro_Sistemas_Recomendac_slides.aux
+*.fdb_latexmk
+*.fls
+L01_Intro_Sistemas_Recomendac/Parte1/tex/L01_Intro_Sistemas_Recomendac_slides.nav
+L01_Intro_Sistemas_Recomendac/Parte1/tex/L01_Intro_Sistemas_Recomendac_slides.out
+L01_Intro_Sistemas_Recomendac/Parte1/tex/L01_Intro_Sistemas_Recomendac_slides.pdf
+L01_Intro_Sistemas_Recomendac/Parte1/tex/L01_Intro_Sistemas_Recomendac_slides.snm
+L01_Intro_Sistemas_Recomendac/Parte1/tex/L01_Intro_Sistemas_Recomendac_slides.synctex.gz
+L01_Intro_Sistemas_Recomendac/Parte1/tex/L01_Intro_Sistemas_Recomendac_slides.tex
+L01_Intro_Sistemas_Recomendac/Parte1/tex/L01_Intro_Sistemas_Recomendac_slides.toc
