@@ -5,7 +5,7 @@
 L00_Intro_to_Colab/*
 L02_Intro_Sistemas_Recomendac_Python/*
 # L03_Basado_Articulos/*
-L04_Usuarios/*
+# L04_Usuarios/*
 L05_NLP_espanol/*
 L06_basados_contenidos/*
 L07_sentimientos/*
@@ -13,7 +13,9 @@ L08_Datos_Geograficos/*
 L09_OSM/*
 L10_Recomendac_Mixtos/*
 README.md
- 
+
+L04_Usuarios/S5_LSC3_Colab-Cdigo.ipynb
+L04_Usuarios/S5_LSC3_Colab.ipynb 
 
 *_clase.ipynb
 
