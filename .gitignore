@@ -13,6 +13,7 @@ L07_sentimientos/Sentimental_analisis.ipynb
 L07_sentimientos/data/1429_1.csv
 L07_sentimientos/data/Libro1.csv
 L08_Datos_Geograficos/slides/figures
+L08_Datos_Geograficos/slides/figures
 L09_OSM/*
 L10_Recomendac_Mixtos/*
 README.md
@@ -340,3 +341,5 @@ L08_Datos_Geograficos/datos/upla/UPla.shp
 L08_Datos_Geograficos/datos/upla/UPla.shp.xml
 L08_Datos_Geograficos/datos/upla/UPla.shx
 L08_Datos_Geograficos/S7_LSC1_Datos_Geograficos.ipynb
+L08_Datos_Geograficos/slides/L08_Slides.Rmd
+L08_Datos_Geograficos/slides/slides.Rproj
